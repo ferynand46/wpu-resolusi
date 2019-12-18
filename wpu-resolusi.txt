@@ -1,3 +1,4 @@
 WPU RESOLUSI
 - Konsisten untuk membuat konten sekali dalam dua minggu
 - Membuat Forum diskusi
+- Membuat tutorial
